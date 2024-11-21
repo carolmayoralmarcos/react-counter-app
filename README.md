@@ -16,15 +16,15 @@ Este proyecto es una aplicación de contador interactivo desarrollada con React,
 
 
 ## Instalación
-Se requiere tener Node.js y npm instalado previamente
-Clonar este repositorio para probar la aplicacion a través del comando git clone
-Para instalar las dependencias necesarias, ejecutar el comando npm install en el terminal.
-Por ultimo, para iniciar el servidor de desarrollo usar el comando npm start
+- Se requiere tener Node.js y npm instalado previamente
+- Clonar este repositorio para probar la aplicacion a través del comando git clone
+- Para instalar las dependencias necesarias, ejecutar el comando npm install en el terminal.
+- Por ultimo, para iniciar el servidor de desarrollo usar el comando npm start
 
 ## Posibles mejoras
-Funcionalidad en la que el contador se incrementa o decrementa automáticamente cada cierto tiempo implementando un setInterval
-Configuración dinámica del límite de forma que el usuario pueda determinar el máximo que él quiera
-Guardar el estado del contador en el localStorage para que no se reinicie al recargar la página.
-Ir cambiando los colores según el número en el que se encuentre el contador.
-Implementar funcionalidad para que por un lado salga el contador y por otro, cuanto queda para que llegue al límite establecido previamente.
-Funcionalidad en la que se controla el contador con el teclado.
+- Funcionalidad en la que el contador se incrementa o decrementa automáticamente cada cierto tiempo implementando un setInterval
+- Configuración dinámica del límite de forma que el usuario pueda determinar el máximo que él quiera
+- Guardar el estado del contador en el localStorage para que no se reinicie al recargar la página.
+- Ir cambiando los colores según el número en el que se encuentre el contador.
+- Implementar funcionalidad para que por un lado salga el contador y por otro, cuanto queda para que llegue al límite establecido previamente.
+- Funcionalidad en la que se controla el contador con el teclado.
