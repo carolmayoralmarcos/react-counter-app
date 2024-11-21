@@ -9,10 +9,10 @@ Este proyecto es una aplicación de contador interactivo desarrollada con React,
 - Mensaje de advertencia al alcanzar el máximo permitido.
 
 ## Tecnologías utilizadas
-React: Para la creación de componentes y el manejo del estado.
-Bootstrap: Para estilos.
-Bootstrap Icons: Para añadir iconos a los botones.
-SweetAlert2: Para mostrar la alerta
+- React: Para la creación de componentes y el manejo del estado.
+- Bootstrap: Para estilos.
+- Bootstrap Icons: Para añadir iconos a los botones.
+- SweetAlert2: Para mostrar la alerta
 
 
 ## Instalación
